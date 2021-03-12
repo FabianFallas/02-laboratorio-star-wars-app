@@ -11,6 +11,10 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1pfQmttZtGxfiisTKXsnMfQr2DI" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
@@ -27,8 +31,11 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1615571830904</updated>
-      <workItem from="1615571847979" duration="6000" />
+      <workItem from="1615571847979" duration="666000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
   </component>
 </project>
